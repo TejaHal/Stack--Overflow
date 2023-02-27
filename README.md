@@ -1,3 +1,5 @@
-# 'npm install'
+# `npm install`
+use the above command on the client and server side to install dependencies
 
-# 'npm start'
+# `npm start`
+use the above command on the client and server side to run both
